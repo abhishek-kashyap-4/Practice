@@ -9,7 +9,7 @@ Using sklearn:
     LinearRegression class in sklearn was used. 
 
 
-![sklearn train image](/images/sklearn_train.png) 
+![sklearn train image](SLR/images/sklearn_train.png) 
 ![sklearn test image](/images/sklearn_test.png)
 
 
